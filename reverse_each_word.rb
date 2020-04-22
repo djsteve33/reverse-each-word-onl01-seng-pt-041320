@@ -11,4 +11,6 @@ reverse_each_word("Hi, how are you today?")
   
 
 def reverse_each_word_using_collect(string)
-  
+ 
+ end
+ 
